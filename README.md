@@ -30,8 +30,14 @@ CONFIG_LIBC_PREFIX
 
 Caveats
 -------
-
 1. Adding test cases.
+
+
+Author
+-------
+guiyang.huang@gmail.com
+
+Feel free to report [issues](https://github.com/huangguiyang/hcc/issues) to me.
 
 
 License
