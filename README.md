@@ -31,8 +31,6 @@ CONFIG_LIBC_PREFIX
 
 Author
 -------
-huangguiyangAToutlook.com
-
 Feel free to report [issues](https://github.com/huangguiyang/hcc/issues) to me.
 
 
